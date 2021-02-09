@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm David, and once-upon a time I wrote some code. Nowadays I write manager code (your judgments are likely all valid).
+
+I like to [read](https://www.goodreads.com/user/show/5253695-david), occassionally [write](https://davidragone.com/blog/) something, and one day perhaps will do more than just [like and retwweet](https://twitter.com/badatreality). 
+
+For the last ~5 years, I've been managing teams, and am currently focused on building front-end mobile and web SDKs for [Square's Payment Platform](https://squareup.com/us/en/payments/payment-platform). I care deeply about enabling people to do their best work.
+
 <!--
 **DavidRagone/DavidRagone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
