@@ -2,9 +2,9 @@
 
 I'm David, and once-upon a time I wrote some code. Nowadays I write manager code (your judgments are likely all valid).
 
-I like to [read](https://www.goodreads.com/user/show/5253695-david) and am on-again-and-off-again active on [the bird app](https://twitter.com/badatreality).
+I like to [read](https://www.goodreads.com/user/show/5253695-david) and learn about various topics.
 
-For the last ~5 years, I've been managing teams, and am currently focused on building front-end mobile and web SDKs for [Square's Payment Platform](https://squareup.com/us/en/payments/payment-platform). I care deeply about enabling people to do their best work.
+For the last ~8 years, I've been managing engineering teams, and am currently leading the teams responsible for the full breadth and depth of [Square's public developer platform](https://developer.squareup.com/). I care deeply about enabling people to do their best work.
 
 <!--
 **DavidRagone/DavidRagone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
