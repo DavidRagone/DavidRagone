@@ -4,7 +4,7 @@ I'm David, and once-upon a time I wrote some code. Nowadays I write manager code
 
 I like to [read](https://www.goodreads.com/user/show/5253695-david) and learn about various topics.
 
-For the last ~8 years, I've been managing engineering teams, and am currently leading the teams responsible for the full breadth and depth of [Square's public developer platform](https://developer.squareup.com/). I care deeply about enabling people to do their best work.
+For the last ~10 years, I've been managing engineering teams. I've led small and scrappy teams as well as larger teams (~75 ICs, 8 managers). I led teams that built a lot of [Square's public developer platform](https://developer.squareup.com/). I care deeply about enabling people to do their best work.
 
 <!--
 **DavidRagone/DavidRagone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
