@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm David, and once-upon a time I wrote some code. Nowadays I write manager code (your judgments are likely all valid).
+I'm David, and once-upon a time I wrote some code. Then I wrote manager code (your judgments are likely all valid) while leading engineering teams. Now, I'm retired and AI writes more code for me in a week than I probably ever wrote in a year. Sorry, most of my repos are private, because they are some combination of silly, stupid, broken, dangerous, or brilliant.
 
 I like to [read](https://www.goodreads.com/user/show/5253695-david) and learn about various topics.
 
-For the last ~10 years, I've been managing engineering teams. I've led small and scrappy teams as well as larger teams (~75 ICs, 8 managers). I led teams that built a lot of [Square's public developer platform](https://developer.squareup.com/). I care deeply about enabling people to do their best work.
+There's some stuff on a [website](https://davidragone.com/) that's probably out-of-date. Enjoy?
 
 <!--
 **DavidRagone/DavidRagone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
